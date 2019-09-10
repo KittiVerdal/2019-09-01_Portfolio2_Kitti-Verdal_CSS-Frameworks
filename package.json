@@ -1,0 +1,19 @@
+{
+  "name": "2019-09-01_portfolio2_kitti-verdal_css-frameworks",
+  "version": "1.0.0",
+  "description": "Noroff-Portfoliuo2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KittiVerdal/2019-09-01_Portfolio2_Kitti-Verdal_CSS-Frameworks.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KittiVerdal/2019-09-01_Portfolio2_Kitti-Verdal_CSS-Frameworks/issues"
+  },
+  "homepage": "https://github.com/KittiVerdal/2019-09-01_Portfolio2_Kitti-Verdal_CSS-Frameworks#readme"
+}
